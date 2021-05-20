@@ -17,7 +17,7 @@ int main(){
 	if ( value > 1 ){	
 		while ( value >= anotherValue) {
 			if( value % anotherValue == 0){
-					count++; 
+				count++; 
 			}
 			anotherValue++;
 		}
